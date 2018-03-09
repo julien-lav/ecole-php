@@ -19,45 +19,53 @@
 			<div>
 				<div class="box">
 					<div class="image fit">
+						<iframe width="760" height="380" src="https://www.youtube.com/embed/lNVpylteZ58?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+					<div class="content">
+						<header class="align-center">
+							<p>Écrans / Narrations /New tech</p>
+							<h2></h2>
+							<p></p>
+						</header>					
+					</div>
+					<footer class="align-center">
+					</footer>
+				</div>
+			</div>
+
+			<div>
+				<div class="box">
+					<div class="image fit">
 						<iframe width="760" height="380" src="https://www.youtube.com/embed/Ygz2meQa2Mw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 					</div>
 					<div class="content">
 						<header class="align-center">
 							<p>Écrans / Narrations /New tech</p>
 							<h2></h2>
-							<p>
-								
-							</p>
-						</header>
-						
-						</div>
-						<footer class="align-center">
-							
-						</footer>
+							<p></p>
+						</header>					
 					</div>
+					<footer class="align-center">
+					</footer>
 				</div>
+			</div>
 
 			<div>
 				<div class="box">
 					<div class="image fit">
 						<iframe width="758" height="380" src="https://www.youtube.com/embed/CX49z9Ekwh4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-						
 					</div>
 					<div class="content">
 						<header class="align-center">
 							<p>Écrans / Narrations /New tech</p>
 							<h2></h2>
-							<p>
-								
-							</p>
-						</header>
-						
-						</div>
-						<footer class="align-center">
-							
-						</footer>
+							<p></p>
+						</header>						
 					</div>
+					<footer class="align-center">
+					</footer>
 				</div>
+			</div>
 
 		
 			<div>
@@ -71,14 +79,10 @@
 						<header class="align-center">
 							<p>Écrans / Narrations /New tech</p>
 							<h2></h2>
-							<p>
-								
-							</p>
-						</header>
-						
+							<p></p>
+						</header>			
 						</div>
 						<footer class="align-center">
-							
 						</footer>
 					</div>
 				</div>
@@ -101,3 +105,4 @@
  </span></a>
 
 <?php include("footer.php"); ?>
+
