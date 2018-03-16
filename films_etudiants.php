@@ -16,23 +16,41 @@
 	<div class="inner">
 		<div class="grid-style">
 
-			<style>
-				.video-container {
-				position: relative;
-				padding-bottom: 56.25%;
-				padding-top: 30px; height: 0; overflow: hidden;
-				}
+            
+            <div>
+				<div class="box">
+					<div class="image fit">
+						<iframe width="760" height="380" src="https://www.youtube.com/embed/5ow-ifx2otk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+					<div class="content">
+						<header class="align-center">
+							<p>Écrans / Narrations /New tech</p>
+							<h2></h2>
+							<p></p>
+						</header>					
+					</div>
+					<footer class="align-center">
+					</footer>
+				</div>
+			</div>
 
-				.video-container iframe,
-				.video-container object,
-				.video-container embed {
-				position: absolute;
-				top: 0;
-				left: 0;
-				width: 100%;
-				height: 100%;
-				}
-			</style>
+
+            <div>
+				<div class="box">
+					<div class="image fit">
+						<iframe width="760" height="380" src="https://www.youtube.com/embed/-tdgc6vVn7Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+					<div class="content">
+						<header class="align-center">
+							<p>Écrans / Narrations /New tech</p>
+							<h2></h2>
+							<p></p>
+						</header>					
+					</div>
+					<footer class="align-center">
+					</footer>
+				</div>
+			</div>
 
 			<div>
 				<div class="box">
