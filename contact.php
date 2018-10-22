@@ -68,14 +68,14 @@
 
 						<h3 style="color: white;">PRÉPA CINÉ PARIS</h3>
 						<span class="image left"><img src="assets/images/camera.jpg" alt="" /></span>
-						<p>111 boulevard de Menilmontant 75011 Paris
+						<p>Adresse :
 						</p>
 						<p>
-						Téléphone : 01 47 00 06 56</p>
+						Téléphone : </p>
 						<p>
-						E-mail : ecole@prepart.fr </p>
+						E-mail : A venir </p>
 						<p style='margin-top: 200px;'>
-						Accés : M° Ménilmontant (ligne 2)</p>
+						Accés : M° A venir</p>
 
 						<div class="clear"></div> 
 

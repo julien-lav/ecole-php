@@ -5,7 +5,7 @@
 			<div class="inner">
 				<header>
 					<p><a href="#scroll-down">Écrans</a> / Narrations  / New tech</p>
-					<h2>PRÉPA CINÉ PARIS</h2>
+					<h2>OFFTOPIC Institute</h2>
 				</header>
 			</div>
 		</article>
